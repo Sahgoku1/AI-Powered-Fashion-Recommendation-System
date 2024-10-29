@@ -1,4 +1,5 @@
-# FINAL 
+# Can AI Bridge the Style Gap? Exploring Semantic Similarities Between Luxury and Retail Fashion Through Machine Learning
+
 This project implements an end-to-end AI-powered framework for analyzing fashion styles and providing recommendations. It transforms unstructured fashion data from luxury and retail brands into structured insights using web scraping, large language models (LLMs), and machine learning techniques.
 
 Features
