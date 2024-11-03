@@ -1,6 +1,5 @@
-# AI-Powered Fashion Recommendation System
+# ABOUT PROJECT
 
-**_Project Overview_**
 This project presents a recommendation system designed for the fashion industry, targeting both luxury and retail segments. The system leverages generative AI and machine learning to convert unstructured fashion data into structured insights, facilitating product recommendations, brand classification, and style analysis.
 
 **_Motivation_**
@@ -23,10 +22,12 @@ The recommendation model supports:
 3. Image-Based Recommendations: Recommends items based on uploaded reference images.
    
 **Classification and Similarity Analysis**
+
 - Brand Classification: Used RandomForestClassifier and Recursive Feature Elimination to distinguish between luxury and retail brands.
 - Semantic Clustering: Applied cosine similarity and hierarchical clustering for style-based analysis across brands.
 
 **_Tech Stack_**
+
 Language: Python
 Machine Learning: Scikit-learn, Pre-trained Embedding Models
 Database: PostgreSQL for structured data, ChromaDB for embedding storage
