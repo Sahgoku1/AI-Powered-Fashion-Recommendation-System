@@ -39,3 +39,5 @@ Environment: Docker for scalability and deployment
 2. Style Classification: Differentiates brand tiers and identifies unique style patterns.
 3. Automated Data Structuring: AI-driven analysis of product features for consistency and comparability.
 
+
+In case of understanding every step of the project one can open the file named "Project Work Flow". For more details technical aspects of the project one can open a file called "Project Report/Thesis" 
